@@ -1,0 +1,1 @@
+# yeoman_angularjs_html
